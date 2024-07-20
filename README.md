@@ -40,7 +40,7 @@ ClickCare is a web-based healthcare platform designed to improve accessibility t
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/clickcare.git
+    git clone https://github.com/vamsidhar32/clickcare.git
     cd clickcare/backend
     ```
 
@@ -50,8 +50,8 @@ ClickCare is a web-based healthcare platform designed to improve accessibility t
 
     ```properties
     spring.datasource.url=jdbc:mysql://localhost:3306/clickcare
-    spring.datasource.username=yourusername
-    spring.datasource.password=yourpassword
+    spring.datasource.username=vamsi32
+    spring.datasource.password=*****
     ```
 
 3. Build and run the backend:
